@@ -31,7 +31,7 @@ The analysis is based on **automotive sales data (2020–2022)** and focuses on 
 | `Territory Lookup.csv` | Regional data |
 | `Calendar Lookup.csv` | Calendar table for time intelligence |
 
-**Data Source:** [Kaggle – Global Bike Sales Dataset](https://www.kaggle.com/) *(or insert your dataset link)*
+**Data Source:** [Kaggle – Global Bike Sales Dataset][([https://www.kaggle.com/](https://www.kaggle.com/datasets/dorcasdavid/adventureworks-sales?))](https://www.kaggle.com/datasets/dorcasdavid/adventureworks-sales?)
 
 ---
 
